@@ -1,0 +1,78 @@
+const destinationsOne = [
+  {
+    id: 1,
+    image: "new-destination-1.jpg",
+    title: "Kilimanjaro",
+    tours: 6,
+    col: 3,
+  }, 
+  {
+    id: 2,
+    image: "new-destination-2.jpg",
+    title: "Tanzania",
+    tours: 6,
+    subTitle: "Discover",
+    col: 6,
+  },
+  {
+    id: 3,
+    image: "new-destination-3.jpg",
+    title: "Uganda",
+    tours: 6,
+    col: 3,
+  },
+  {
+    id: 4,
+    image: "new-destination-4.jpg",
+    title: "Kenya",
+    tours: 6,
+    col: 6,
+  },
+  {
+    id: 1,
+    image: "new-destination-5.jpg",
+    title: "Zanzibar",
+    tours: 6,
+    subTitle: "Discover",
+    col: 6,
+  },
+  {
+    id: 2,
+    image: "destination-1-6.png",
+    title: "Europe",
+    tours: 6,
+    col: 3,
+  },
+  {
+    id: 3,
+    image: "destination-1-7.png",
+    title: "San Francisco",
+    tours: 6,
+    subTitle: "Adventure",
+    col: 6,
+  },
+  {
+    id: 4,
+    image: "destination-1-8.png",
+    title: "China",
+    tours: 6,
+    subTitle: "Tours",
+    col: 3,
+  },
+  {
+    id: 1,
+    image: "destination-1-9.png",
+    title: "Germany",
+    tours: 6,
+    col: 6,
+  },
+  {
+    id: 2,
+    image: "destination-1-10.png",
+    title: "Dubai",
+    tours: 6,
+    col: 3,
+  },
+];
+
+export default destinationsOne;
